@@ -27,7 +27,10 @@ neural networks.
 
 ## Compile, Train, and Evaluating the Model
 
-*
+* Alphabet Soup Charity Initial Model:2 hidden layers 15 and 30 
+* 
+![Screen Shot 2021-12-01 at 11 25 08 PM](https://user-images.githubusercontent.com/86257908/144362842-ddaeda2b-68a4-4f57-8e59-a43bb9b98e48.png)
+
 
 
 # Summary 
