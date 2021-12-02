@@ -10,7 +10,7 @@ neural networks.
 # Resources 
 
 * Jupyter
-* Pandas
+* Python
 * Keras
 * Tensorflow 
 * Sklearn
