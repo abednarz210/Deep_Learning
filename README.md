@@ -41,8 +41,8 @@ and evaluate the binary classification model to calculate the model’s loss and
 
 #### Resources/ Credits
 
-Image-(https://andarba.org/asset/images/Charity-about-us.png)
-Resources-(https://stackoverflow.com/questions/22320356/pandas-get-values-from-column-that-appear-more-than-x-times)
-Resources-(https://towardsdatascience.com/checkpointing-deep-learning-models-in-keras-a652570b8de6)
+*Image-(https://andarba.org/asset/images/Charity-about-us.png)
+*Resources-(https://stackoverflow.com/questions/22320356/pandas-get-values-from-column-that-appear-more-than-x-times)
+*Resources-(https://towardsdatascience.com/checkpointing-deep-learning-models-in-keras-a652570b8de6)
 
 
