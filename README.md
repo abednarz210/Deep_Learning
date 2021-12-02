@@ -27,9 +27,7 @@ neural networks.
 
 ## Compile, Train, and Evaluating the Model
 
-Using TensorFlow, design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded 
-organization will be successful based on the features in the dataset. Next, determine the number of neurons and layers in the created model to compile, train, 
-and evaluate the binary classification model to calculate the model’s loss and accuracy. Save and export results to an HDF5 file. 
+*
 
 
 # Summary 
@@ -41,8 +39,8 @@ and evaluate the binary classification model to calculate the model’s loss and
 
 #### Resources/ Credits
 
-Image-(https://andarba.org/asset/images/Charity-about-us.png)
-Resources-(https://stackoverflow.com/questions/22320356/pandas-get-values-from-column-that-appear-more-than-x-times)
-Resources-(https://towardsdatascience.com/checkpointing-deep-learning-models-in-keras-a652570b8de6)
+*Image-(https://andarba.org/asset/images/Charity-about-us.png)
+*Resources-(https://stackoverflow.com/questions/22320356/pandas-get-values-from-column-that-appear-more-than-x-times)
+*Resources-(https://towardsdatascience.com/checkpointing-deep-learning-models-in-keras-a652570b8de6)
 
 
