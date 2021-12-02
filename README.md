@@ -33,7 +33,7 @@ neural networks.
 
 # Summary 
 
-I was unable to achieve the desired 75% accuracy rate for the outcome.  The additional layers did not increase the accuracy, but did increase the losspercentage. On the next attempt to achieve the 75% accuracy, I would try increasing the numeric amount used for two hidden layers and increase epochs.  
+I was unable to achieve the desired 75% accuracy rate for the outcome.  The additional layers did not increase the accuracy, but did increase the loss percentage. On the next attempt to achieve the 75% accuracy, I would try increasing the numeric amount used for two hidden layers and increase epochs.  
 
 
 
